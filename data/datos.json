@@ -1,5 +1,1 @@
-{
-    "id":1,
-    "nombre":"jaja",
-    "precio": 9999999
-}
+{"productos":[{"id":1,"nombre":"ciruela","precio":256},{"id":2,"nombre":"awa","precio":1111}]}
